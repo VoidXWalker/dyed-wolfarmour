@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "dyed-wolf-armor",
+  "version": "${version}",
+  "name": "Dyed Wolf Armour",
+  "description": "Allows you to dye the newly added wolf armor!",
+  "authors": ["Void_X_Walker"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/dyed-wolf-armor/icon.png",
+  "environment": "*",
+  "mixins": [
+    "dyed-wolf-armor.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.0"
+  }
+}
