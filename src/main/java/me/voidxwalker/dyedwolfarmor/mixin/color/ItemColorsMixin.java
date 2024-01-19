@@ -1,4 +1,4 @@
-package me.voidxwalker.dyedwolfarmor.mixin;
+package me.voidxwalker.dyedwolfarmor.mixin.color;
 
 import com.llamalad7.mixinextras.injector.ModifyReturnValue;
 import net.minecraft.client.color.item.ItemColors;

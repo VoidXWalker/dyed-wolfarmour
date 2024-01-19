@@ -1,4 +1,4 @@
-package me.voidxwalker.dyedwolfarmor.mixin;
+package me.voidxwalker.dyedwolfarmor.mixin.color;
 
 import com.llamalad7.mixinextras.injector.wrapoperation.Operation;
 import com.llamalad7.mixinextras.injector.wrapoperation.WrapOperation;

@@ -1,4 +1,4 @@
-package me.voidxwalker.dyedwolfarmor.mixin;
+package me.voidxwalker.dyedwolfarmor.mixin.color;
 
 import net.minecraft.block.cauldron.CauldronBehavior;
 import net.minecraft.item.Item;
